@@ -1,0 +1,18 @@
+.card{
+    height: 300px;
+    width: 250px;
+    border: 1px solid black;
+    margin: 10px;
+}
+.cardImg{
+    height: 180px;
+    object-fit: cover;
+    width: 250px;
+}
+.cardTypos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
